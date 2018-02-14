@@ -1,3 +1,5 @@
+**WARNING! This is a modified branch of the original Stateless Designer. It's purpose is to support the Liquid State state machine instead of Stateless. Currently this is not generally usable due to dependencies on internal non-open source code.**
+
 # Stateless-Designer
 Visual Studio extension to support visual design of stateless state machines. Support for Visual Studio 2012, Visual Studio 2013, Visual Studio 2015 and Visual Studio 2017. Uses the stateless library made by Nicholas Blumhardt.
 
